@@ -1,0 +1,4 @@
+[submodule "level2"]
+	path = level2
+	url = https://github.com/ibotty/git-clone-task-submodules-repro.git
+	branch = level1
